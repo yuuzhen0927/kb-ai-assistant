@@ -1,0 +1,11 @@
+{
+    "isDesktopOnly":  false,
+    "id":  "kb-ai-assistant",
+    "minAppVersion":  "1.0.0",
+    "version":  "1.0.0",
+    "description":  "Personal knowledge base AI assistant with streaming chat, markdown rendering, multi-session, and DeepSeek integration.",
+    "author":  "Yuzhen",
+    "name":  "KB AI Assistant",
+    "authorUrl":  "https://github.com/yuzhenxin",
+    "fundingUrl":  ""
+}
